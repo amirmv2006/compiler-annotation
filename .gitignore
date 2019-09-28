@@ -1,3 +1,4 @@
 # Project exclude paths
-/annotation-api/target/
-/annotation-demo/target/
+*.iml
+.idea
+target/
